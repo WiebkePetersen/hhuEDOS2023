@@ -4,7 +4,16 @@ This repository contains the source code for the models used for hhuEDOS team's 
 
 
 
-## Prerequisites
+## Overview
+
+
+| Notebook | Description |
+| ------------- | ------------- |
+| Task_EDOS_Semeval_0_baseline  | Content Cell  |
+| Task_EDOS_Semeval_1_imbalanced_data | Content Cell  |
+| Task_EDOS_Semeval_2_semi-supervised | Content Cell  |
+| Task_EDOS_Semeval_3_ML | Content Cell  |
+
 
 
 

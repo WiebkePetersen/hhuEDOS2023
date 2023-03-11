@@ -18,6 +18,7 @@ This repository contains the source code for the models used for hhuEDOS team's 
 
 The dataset is provided by the SemEval-2023 Task 10 organizers.
 
+```
 @inproceedings{kirkSemEval2023,
 title = {{SemEval}-2023 {Task} 10: {Explainable} {Detection} of {Online} {Sexism}},
 url = {http://arxiv.org/abs/2303.04222},
@@ -27,6 +28,6 @@ booktitle = {Proceedings of the 17th {{International Workshop}} on {{Semantic Ev
 publisher = {{Association for Computational Linguistics}},
 year = {2023}
 }
-
+```
 
 

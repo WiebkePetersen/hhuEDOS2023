@@ -1,11 +1,12 @@
 # hhuEDOS2023
 
-This repository contains the source code for the models used for hhuEDOS team's submission for <a href="https://codalab.lisn.upsaclay.fr/competitions/7124" target="_blank">SemEval-2023 Shared Task 10, Subtask A “Explainable Detection of Online Sexism (EDOS)"</a>
+This repository contains the source code for the models used for hhuEDOS team's submission for <a href="https://codalab.lisn.upsaclay.fr/competitions/7124" target="_blank">SemEval-2023 Shared Task 10, Subtask A “Explainable Detection of Online Sexism (EDOS)"</a>. Our model ranked 55th out of 84.
 
 
 
 ## Overview
 
+Listed below are all our methods we experimented with. Our semi-supervised approach yielded the best results with a macro F1 score of 81.85%. 
 
 | Notebook | Description |
 | ------------- | ------------- |

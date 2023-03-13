@@ -6,7 +6,7 @@ This repository contains the source code for the models used for hhuEDOS team's 
 
 ## Overview
 
-Listed below are all our methods we experimented with. Our submitted model uses semi-supervised learning and yieled results with a macro F1 score of 81.85%. 
+Listed below are all our methods we experimented with. Our submitted model (notebook 3) uses semi-supervised learning and yieled results with a macro F1 score of 81.85%. 
 
 | Notebook | Description |
 | ------------- | ------------- |

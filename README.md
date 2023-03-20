@@ -12,7 +12,7 @@ Listed below are all our methods we experimented with. Our submitted model (note
 | ------------- | ------------- |
 | Task_EDOS_Semeval_0_baseline  | Content Cell  |
 | Task_EDOS_Semeval_1_imbalanced_data | Content Cell  |
-| Task_EDOS_Semeval_2_semi-supervised | Apply our pretrained language model on additional unlabeled data to augment the dataset and re-train the model.|
+| Task_EDOS_Semeval_2_semi-supervised | Apply our pretrained language model on additional unlabeled data to augment the dataset and re-train the model. Includes our Error Analysis|
 | Task_EDOS_Semeval_3_ML | Apply traditional machine learning methods and test several classifiers with different parameter settings. Features are extracted using TF-IDF.|
 
 ## Data

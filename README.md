@@ -31,4 +31,28 @@ year = {2023}
 }
 ```
 
+## How to cite
 
+```
+@inproceedings{petersen-etal-2023-hhuedos,
+    title = "hhu{EDOS} at {S}em{E}val-2023 Task 10: Explainable Detection of Online Sexism ({EDOS}) Binary Sexism Detection (Subtask A)",
+    author = "Petersen, Wiebke  and
+      Tran, Diem-Ly  and
+      Wroblewitz, Marion",
+    editor = {Ojha, Atul Kr.  and
+      Do{\u{g}}ru{\"o}z, A. Seza  and
+      Da San Martino, Giovanni  and
+      Tayyar Madabushi, Harish  and
+      Kumar, Ritesh  and
+      Sartori, Elisa},
+    booktitle = "Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.semeval-1.203",
+    doi = "10.18653/v1/2023.semeval-1.203",
+    pages = "1476--1482",
+    abstract = "In this paper, we describe SemEval-2023 Task 10, a shared task on detecting and predicting sexist language. The dataset consists of labeled sexist and non-sexist data targeted towards women acquired from both Reddit and Gab. We present and compare several approaches we experimented with and our final submitted model. Additional error analysis is given to recognize challenges we dealt with in our process. A total of 84 teams participated. Our model ranks 55th overall in Subtask A of the shared task.",
+}
+```
